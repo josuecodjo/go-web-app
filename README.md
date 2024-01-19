@@ -1,2 +1,2 @@
 # go-web-app
-Sample web application written in go
+A basic web app returning http response written in go.
